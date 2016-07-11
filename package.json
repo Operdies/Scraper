@@ -1,0 +1,14 @@
+{
+  "name": "web-scrape",
+  "version": "0.0.1",
+  "description": "HAHA - Time to scrape!",
+  "main": "Scraper.js",
+  "author": "anla15",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "nodemon": "^1.9.2",
+    "request": "latest"
+  }
+}
